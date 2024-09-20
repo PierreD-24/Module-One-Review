@@ -1,0 +1,15 @@
+C:\Users\pdahr\Desktop\repos\Module_One_Review\bin\Debug\net8.0\Module_One_Review.exe
+C:\Users\pdahr\Desktop\repos\Module_One_Review\bin\Debug\net8.0\Module_One_Review.deps.json
+C:\Users\pdahr\Desktop\repos\Module_One_Review\bin\Debug\net8.0\Module_One_Review.runtimeconfig.json
+C:\Users\pdahr\Desktop\repos\Module_One_Review\bin\Debug\net8.0\Module_One_Review.dll
+C:\Users\pdahr\Desktop\repos\Module_One_Review\bin\Debug\net8.0\Module_One_Review.pdb
+C:\Users\pdahr\Desktop\repos\Module_One_Review\obj\Debug\net8.0\Module_One_Review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pdahr\Desktop\repos\Module_One_Review\obj\Debug\net8.0\Module_One_Review.AssemblyInfoInputs.cache
+C:\Users\pdahr\Desktop\repos\Module_One_Review\obj\Debug\net8.0\Module_One_Review.AssemblyInfo.cs
+C:\Users\pdahr\Desktop\repos\Module_One_Review\obj\Debug\net8.0\Module_One_Review.csproj.CoreCompileInputs.cache
+C:\Users\pdahr\Desktop\repos\Module_One_Review\obj\Debug\net8.0\Module_One_Review.sourcelink.json
+C:\Users\pdahr\Desktop\repos\Module_One_Review\obj\Debug\net8.0\Module_One_Review.dll
+C:\Users\pdahr\Desktop\repos\Module_One_Review\obj\Debug\net8.0\refint\Module_One_Review.dll
+C:\Users\pdahr\Desktop\repos\Module_One_Review\obj\Debug\net8.0\Module_One_Review.pdb
+C:\Users\pdahr\Desktop\repos\Module_One_Review\obj\Debug\net8.0\Module_One_Review.genruntimeconfig.cache
+C:\Users\pdahr\Desktop\repos\Module_One_Review\obj\Debug\net8.0\ref\Module_One_Review.dll
